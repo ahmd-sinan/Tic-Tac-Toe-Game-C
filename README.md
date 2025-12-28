@@ -1,5 +1,4 @@
 # Tic-Tac-Toe-Game-(Console Based using C)
--------------------------------------------
 A simple two-player Tic Tac Toe game built using the C programming language.
 This is a console-based game where two players take turns playing as X and O.
 
