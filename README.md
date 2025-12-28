@@ -5,20 +5,20 @@ This is a console-based game where two players take turns playing as X and O.
 
 Features
 ---------
-Two-player gameplay (Player X vs Player O)
-Interactive console-based board
-Valid move checking (prevents overwriting moves)
-Automatic win detection (rows, columns, diagonals)
-Draw detection after 9 moves
+Two-player gameplay (Player X vs Player O),
+Interactive console-based board,
+Valid move checking (prevents overwriting moves),
+Automatic win detection (rows, columns, diagonals),
+Draw detection after 9 moves,
 
 
 Concepts Used
 -------------
-2D Arrays
-Functions & modular programming
-Conditional statements
-Loops
-Game logic & state management
+2D Arrays,
+Functions & modular programming,
+Conditional statements,
+Loops,
+Game logic & state management,
 
 
 How to Run
@@ -41,9 +41,9 @@ First player to align 3 symbols wins!
 
 Future Improvements
 --------------------
-Replay option after game ends
-Score tracking for players
-File handling to save match history
+Replay option after game ends,
+Score tracking for players,
+File handling to save match history,
 
 
 Purpose
