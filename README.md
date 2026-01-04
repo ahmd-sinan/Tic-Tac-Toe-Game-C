@@ -23,15 +23,14 @@ Game logic & state management,
 
 How to Run
 -----------
-Compile the program:
-'''bash
-gcc TicTacToe.c -o tictactoe
-'''
-
-Run the executable:
-'''bash
-./tictactoe
-'''
+1.  Compile the program:
+    ```bash
+    gcc TicTacToe.c -o tictactoe
+    ```
+2.  Run the executable:
+    ```bash
+    ./tictactoe
+    ```
 
 Follow the on-screen instructions and enter numbers 1–9 to place your move.
 
