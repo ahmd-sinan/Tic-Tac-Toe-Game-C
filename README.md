@@ -24,10 +24,14 @@ Game logic & state management,
 How to Run
 -----------
 Compile the program:
-gcc Tic_Tac_Toe_Console.c -o tictactoe
+'''bash
+gcc TicTacToe.c -o tictactoe
+'''
 
 Run the executable:
+'''bash
 ./tictactoe
+'''
 
 Follow the on-screen instructions and enter numbers 1–9 to place your move.
 
@@ -37,13 +41,6 @@ Sample Gameplay
 Player 1: X | Player 2: O
 Enter a number (1–9) to place your mark.
 First player to align 3 symbols wins!
-
-
-Future Improvements
---------------------
-Replay option after game ends,
-Score tracking for players,
-File handling to save match history,
 
 
 Purpose
