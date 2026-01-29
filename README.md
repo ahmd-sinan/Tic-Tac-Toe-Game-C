@@ -9,7 +9,7 @@ Features
 - Interactive console-based board,
 - Valid move checking (prevents overwriting moves),
 - Automatic win detection (rows, columns, diagonals),
-Draw detection after 9 moves,
+- Draw detection after 9 moves,
 
 
 Concepts Used
