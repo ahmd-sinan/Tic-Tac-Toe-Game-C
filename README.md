@@ -5,10 +5,10 @@ This is a console-based game where two players take turns playing as X and O.
 
 Features
 ---------
-Two-player gameplay (Player X vs Player O),
-Interactive console-based board,
-Valid move checking (prevents overwriting moves),
-Automatic win detection (rows, columns, diagonals),
+- Two-player gameplay (Player X vs Player O),
+- Interactive console-based board,
+- Valid move checking (prevents overwriting moves),
+- Automatic win detection (rows, columns, diagonals),
 Draw detection after 9 moves,
 
 
